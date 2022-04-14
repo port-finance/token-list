@@ -38862,6 +38862,36 @@
     },
     {
       "chainId": 101,
+      "address": "7AfuD3nqZEJSF7oaQgEPmeo7zJi1n8Dh7BedYtgRugFk",
+      "symbol": "July22ppUSDC",
+      "name": "Port Finance 2022 July Principal USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58/USDC.svg",
+      "tags": [
+        "port",
+        "lending"
+      ],
+      "extensions": {
+        "website": "https://port.finance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4Fo8dh9kHn7WGxPy3MdhaBXLjY5DYStbRPwZudCTo5W4",
+      "symbol": "July22pyUSDC",
+      "name": "Port Finance 2022 July Yield USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58/USDC.svg",
+      "tags": [
+        "port",
+        "lending"
+      ],
+      "extensions": {
+        "website": "https://port.finance"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "J7WYVzFNynk9D28eBCccw2EYkygygiLDCVCabV7CupWL",
       "symbol": "MONGOOSE",
       "name": "Mongoose Coin",
@@ -38870,7 +38900,7 @@
       "tags": [
         "MEME",
         "Community-token",
-        "Mongoose"
+        "Msaberongoose"
       ],
       "extensions": {
         "coingeckoId": "mongoosecoin",
